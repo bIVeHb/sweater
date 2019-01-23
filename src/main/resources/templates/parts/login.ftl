@@ -13,4 +13,3 @@
     <input type="submit" value="Sign Out"/>
 </form>
 </#macro>
-
