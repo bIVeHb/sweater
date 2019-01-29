@@ -41,6 +41,7 @@
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__Init_DB.sql" connection-id="d311deff-2122-461e-b5fa-44058447e97d" session-id="MAIN" current-schema="POSTGRES" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/db/migration/V3__Encode_passwords.sql" connection-id="d311deff-2122-461e-b5fa-44058447e97d" session-id="MAIN" current-schema="" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/resources/db/migration/V2__Add_admin.sql" connection-id="d311deff-2122-461e-b5fa-44058447e97d" session-id="MAIN" current-schema="POSTGRES" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
